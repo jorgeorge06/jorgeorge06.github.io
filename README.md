@@ -1,6 +1,4 @@
-
-
-<!DOCTYPE html>
+# jorgeorge06.github.io
 <html>
     <head>
       <title>Bababooey</title>
