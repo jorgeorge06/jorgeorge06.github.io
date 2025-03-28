@@ -3,9 +3,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-      <title>
-        Bababooey
-      </title>
+      <title>Bababooey</title>
     </head>
     <body>
         <p>
